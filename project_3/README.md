@@ -1,6 +1,4 @@
-# Anorexia Nervosa Predictor Web App
-
-![Project Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3 - Web APIs & NLP
 
 ## Introduction
 
@@ -76,7 +74,7 @@ Here's a data dictionary for the key columns used in this project:
 | **title_text_stemmed**             | object    | Title and text content after stemming                  |
 | **title_text_lemmatized**          | object    | Title and text content after lemmatization             |
 
-### Praw and workflow process
+### PRAW and Workflow Process
 
 1. **Data Collection**: Utilize web scraping techniques to extract data from specific sources, such as websites or online communities. In this project, we collected data from Reddit using the PRAW library and a custom Reddit scraper.
 
@@ -98,8 +96,6 @@ Here's a data dictionary for the key columns used in this project:
 6. **Visualization and Reporting**: Create visualizations and reports to effectively communicate our findings and results.
 
 This workflow outlines the essential steps in collecting, cleaning, and preparing data for our project.
-
-## Exploratory Data Analysis (EDA)
 
 ## Conclusion
 
@@ -146,8 +142,4 @@ As we continue to evolve the Anorexia Nervosa Predictor Web App, we envision sev
 These future work items demonstrate our commitment to continuous improvement and our dedication to addressing critical issues in mental health and wellness through technology.
 
 We welcome collaboration and contributions from the community to help us achieve these goals and further enhance the Anorexia Nervosa Predictor Web App.
-
----
-
-For any inquiries or assistance related to the Anorexia Nervosa Predictor Web App, please feel free to contact us.
 
