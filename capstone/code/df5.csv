@@ -1,0 +1,72 @@
+resource_state,athlete,name,distance,moving_time,elapsed_time,total_elevation_gain,type,sport_type,workout_type
+2,"{'resource_state': 2, 'firstname': 'gian francis', 'lastname': 'T.'}",Morning Run,0.0,2,2,0.0,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Morning Run,1094.1,429,591,2.1,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Barnabas', 'lastname': 'H.'}",Afternoon Run,5004.4,1762,1837,1.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Afternoon Run,1649.6,811,1195,4.3,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Morning Run,1878.9,871,1725,4.9,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'darrel', 'lastname': 'T.'}",Afternoon Run,3462.7,1704,1813,12.6,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Afternoon Run,3894.9,1757,3323,22.8,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'sunjai', 'lastname': 'C.'}",Afternoon Run,4263.0,1802,2888,37.7,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Barnabas', 'lastname': 'H.'}",Afternoon Run,4005.3,1433,1433,6.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Afternoon Run,925.2,429,459,4.2,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'darrel', 'lastname': 'T.'}",Afternoon Run,890.5,426,540,11.5,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'sunjai', 'lastname': 'C.'}",Afternoon Run,1048.4,435,455,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'sunjai', 'lastname': 'C.'}",Morning Run,3158.8,2088,3215,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Afternoon Run,2300.9,1269,2267,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'darrel', 'lastname': 'T.'}",Afternoon Run,2172.8,1260,2632,9.2,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Morning Run,2504.7,666,2227,12.9,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'darrel', 'lastname': 'T.'}",Morning Run,1286.3,432,889,23.6,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Afternoon Run,4317.7,1408,1431,15.4,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Afternoon Run,3610.4,1420,1565,57.8,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Afternoon Run,777.2,392,440,2.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Morning Run,1057.0,531,917,12.8,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Barnabas', 'lastname': 'H.'}",Morning Run,4124.4,1471,1491,4.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Morning Run,4952.8,1816,2200,8.7,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'darrel', 'lastname': 'T.'}",Morning Run,4390.0,1965,2918,6.9,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Morning Run,1803.1,725,976,4.8,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'darrel', 'lastname': 'T.'}",Morning Run,1734.6,796,929,3.8,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Night Run,1005.4,319,322,14.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Night Run,1206.8,374,377,23.4,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Night Run,1209.7,380,383,22.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Night Run,1011.5,424,437,29.4,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Afternoon Run,3291.2,1487,1587,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'darrel', 'lastname': 'T.'}",Afternoon Run,3270.9,1687,2613,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Afternoon Run,809.4,342,932,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'darrel', 'lastname': 'T.'}",Afternoon Run,1146.6,624,923,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Morning Run,933.4,525,1861,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Morning Run,2500.1,683,3495,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Evening Run,3303.1,829,1799,9.4,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Afternoon Run,5783.1,2050,3127,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Morning Run,943.5,443,592,10.8,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Evening Run,2372.4,634,1056,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Evening Run,2344.9,657,657,36.4,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'gian francis', 'lastname': 'T.'}",Evening Run,2418.6,606,606,0.0,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'darrel', 'lastname': 'T.'}",Evening Run,1881.6,1024,2338,0.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Morning Run,2090.9,1832,1832,40.2,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'gian francis', 'lastname': 'T.'}",interval 1.2x2,2445.4,591,808,0.0,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Night Run,2404.7,702,792,0.0,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'gian francis', 'lastname': 'T.'}",interv,2401.6,590,1136,0.0,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Night Run,2528.7,738,938,20.2,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Barnabas', 'lastname': 'H.'}",Morning Run,7357.2,4349,4561,157.8,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Barnabas', 'lastname': 'H.'}",Afternoon Run,6580.0,2616,3487,118.2,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Night Run,4009.1,1365,1370,34.4,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Evening Run,3009.8,888,2087,58.2,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Morning Run,2344.8,1374,1374,25.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Barnabas', 'lastname': 'H.'}",Morning Run,4003.2,1507,1507,50.8,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Morning Run,5876.2,2143,3188,28.9,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Afternoon Run,36.7,341,341,7.8,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Barnabas', 'lastname': 'H.'}",Afternoon Run,3489.3,2227,2239,116.4,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'See Meng', 'lastname': 'H.'}",Afternoon Run,3628.7,1572,2766,30.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Afternoon Run,3393.1,2258,2258,78.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Evening Run,3204.2,832,1910,0.0,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'Barnabas', 'lastname': 'H.'}",Morning Run,356.6,1208,1208,33.4,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Night Run,6603.3,3284,3284,133.2,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Barnabas', 'lastname': 'H.'}",Morning Run,9911.5,4959,5068,172.8,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'M Farhan', 'lastname': 'R.'}",Army Half Marathon,10296.0,4118,4143,11.0,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'darrel', 'lastname': 'T.'}",Afternoon Run,5081.1,1730,2787,18.7,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Morning Run,7121.7,3286,3363,39.0,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Morning Run,2275.9,3095,4073,12.8,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Night Run,8001.7,4861,6260,156.8,Run,Run,
+2,"{'resource_state': 2, 'firstname': 'Shaun', 'lastname': 'P.'}",Night Run,5031.6,2065,2226,118.6,Run,Run,0.0
+2,"{'resource_state': 2, 'firstname': 'M Farhan', 'lastname': 'R.'}",Spartan Sprint,6765.1,2949,6251,16.0,Run,TrailRun,0.0
+2,"{'resource_state': 2, 'firstname': 'Barnabas', 'lastname': 'H.'}",Morning Run,2384.0,1484,1484,11.4,Run,Run,
