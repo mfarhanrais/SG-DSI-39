@@ -14,37 +14,45 @@ Below are the projects that I completed as a Data Science Immersive bootcamp stu
 
 Using basic statistics and probability in Python to analyse the climate data in Singapore in order to optimise the training program of an Army unit.
 
-> Tech stack:
+> Python, Pandas, NumPy, Matplotlib, Seaborn, statistics
 
 ### 🏘️ [Project 2](./project_2/) 🏘️: Singapore Housing Data and Kaggle Challenge
 
-*test*
+*`Use of Machine Learning (1) Reduces the guesswork on the optimal price to buy/sell, (2) Identify factors with greatest impact on resale price.`*
 
-description
+Analyse the HDB resale data from Kaggle to build a model to predict resale price,then deploy the model to a web app for users.
 
-> Tech stack:
+> Linear Regression, Lasso, Ridge, Streamlit
 
 ### 💻 [Project 3](./project_3/) 💻: Web APIs & NLP
 
-description
+*`How can we differentiate between users from r/intermittentfasting and r/AnorexiaNervosa based on their Reddit posts?`*
 
-> Tech stack:
+Scrape subreddits using an API library then analyse the data using NLP to create a classification model, then deployed to a web app to help users highlight those at risk of anorexia based on their Reddit posts.
+
+> HTML, API, BeautifulSoup, NLP, supervised learning, Logistic Regression, Naive Bayes, XGBoost
 
 ### 🦠 [Project 4](./project_4a/) 🦠: Predicting the Spread of West Nile Virus
 
-description
+*`To effectively plan the deployment of pesticides in order to mitigate the spread of the West Nile Virus in Chicago City by producing a predictive model and cost benefit analysis.`*
 
-> Tech stack:
+From past data, 25 classifier models were rapidly built before tuning a final model to predict the spread of the virus.
 
-### 🏃🏽 [Capstone Project](./capstone/) 🏃🏽: TITLE
+> Recommender systems, deep learning, neural networks, unsupervised learning, time series, geospatial analysis, Folium, LazyPredict, XGBClassifier
 
-description
+### 🏃🏽 [Capstone Project](./capstone/) 🏃🏽: Injury Prediction, Prevention & Performance Tool (IPPPT)
 
-> Tech stack:
+*`How can trainers and individuals use machine learning to analyse heart rate data from wearables in order to review training performance and highlight those at risk of injury in order achieve IPPT Gold standards before attempting IPPT?`*
+
+Aggregated heart rate data using API from Strava to build a Tableau dashboard and build a predictive model to be deployed on a web app.
+
+> API, Tableau, PyCaret, Streamlit
+
+---
 
 ## 👨🏽‍🏫 Instructional Associate 👨🏽‍🏫
 
-Subsequently, I became an Instructional Associate for the following class. Below are the capstone projects that I supervised.
+Subsequently, I became an Instructional Associate for the following class. Below are the capstone projects that I supervised, specialising in computer vision.
 
 ### TITLE
 
@@ -52,26 +60,32 @@ description
 
 > Tech stack:
 
+---
+
 ## 👨🏽‍🎓 Data Analytics 👨🏽‍🎓
 
 [https://generalassemb.ly/students/courses/data-analytics-short-course/singapore]()
 
-Below are the projects that I completed as a Data Analytics student at General Assembly.
+Below are the projects that I completed as a Data Analytics student at General Assembly. They all center around the same problem statement as a central theme, with slightly differing datasets and incremental approaches.
 
-### ✈️ [Excel](./data_analytics/project_1/) ✈️: Flight Delays Analysis
+### 👨🏽‍✈️ Flight Delays Analysis 👨🏽‍✈️
 
-description
+*`How might the DoT data analyst use flight data to analyse trends in flight delays and make recommendations to JFK Airport management in order to improve flight departure times?`*
+
+### ✈️ [Excel](./data_analytics/project_1/) ✈️
+
+Using flight data from Kaggle, Analysis ToolPak, pivot tables and formulas to analyse trends.
 
 > Microsoft Excel
 
-### ✈️ [SQL](./data_analytics/project_2/) ✈️: Flight Delays Analysis
+### ✈️ [SQL](./data_analytics/project_2/) ✈️
 
-description
+Wrangling flight data using SQL on a PostgreSQL server and locally using SQLite.
 
 > SQL, PostgreSQL, PGAdmin, SQLite
 
-### ✈️ [Tableau](./data_analytics/project_3/) ✈️: Flight Delays Analysis
+### ✈️ [Tableau](./data_analytics/project_3/) ✈️
 
-description
+Built a Tableau dashboard to analyse flight trends.
 
 > Python, Tableau
